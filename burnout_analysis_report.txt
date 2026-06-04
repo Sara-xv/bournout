@@ -1,0 +1,108 @@
+======================================================================
+BURNOUT RISK ANALYSIS REPORT
+Generated: 2026-05-10 10:06:01
+======================================================================
+
+📊 POPULATION OVERVIEW
+--------------------------------------------------
+  🟢 Low Risk      :  3,650 employees ( 18.2%)
+  🟡 Moderate Risk : 14,085 employees ( 70.4%)
+  🔴 High Risk     :  2,265 employees ( 11.3%)
+  ──────────────────────────────────────────────────
+  📊 Total         : 20,000 employees (100.0%)
+
+📊 AGE PROFILE
+--------------------------------------------------
+  Risk Level        Min     Mean    Max
+  ----------------------------------------
+  🟢 Low              22     40.9     60
+  🟡 Moderate         22     40.9     60
+  🔴 High             22     40.4     60
+
+📊 WORK HOURS PER WEEK
+--------------------------------------------------
+  Risk Level        Min     Mean    Max
+  ----------------------------------------
+  🟢 Low              35     39.3     45
+  🟡 Moderate         35     44.5     55
+  🔴 High             35     56.8     70
+
+📊 SOCIAL SUPPORT SCORE
+--------------------------------------------------
+  Risk Level        Min     Mean    Max
+  ----------------------------------------
+  🟢 Low             1.0      3.0    5.0
+  🟡 Moderate        1.0      3.0    5.0
+  🔴 High            1.0      3.0    5.0
+
+📊 TURNOVER RATE
+--------------------------------------------------
+  Risk Level         Left    Total       Rate
+  ---------------------------------------------
+  🟢 Low               433    3,650      11.9%
+  🟡 Moderate        7,619   14,085      54.1%
+  🔴 High            1,661    2,265      73.3%
+  ─────────────────────────────────────────────
+  📊 Overall         9,713   20,000      48.6%
+
+📊 MENTAL HEALTH METRICS (Average Scores)
+------------------------------------------------------------
+  Metric                    🟢 Low     🟡 Moderate       🔴 High
+  ----------------------------------------------------------
+  ⚡ Stress                   1.8           2.4         3.7
+  😰 Anxiety                  1.7           2.8         5.5
+  😔 Depression               1.4           2.1         4.0
+  😴 Sleep Quality            4.4           4.1         3.4
+  💼 Job Satisfaction         4.4           2.8         3.2
+
+======================================================================
+💡 KEY INSIGHTS
+======================================================================
+
+  📈 Population Insights:
+     • Most employees are in Moderate Risk category (70.4%)
+     • Only 18.2% of workforce has Low burnout risk
+
+  ⏰ Work Hours Impact:
+     • High-risk employees work 17.5 hours MORE than low-risk
+     • Low-risk average: 39.3 hrs/week (healthy range)
+     • High-risk average: 56.8 hrs/week (critical range)
+
+  🤝 Social Protection:
+     • Low-risk employees have 0.0 points HIGHER social support
+     • Strong social support = Lower burnout risk
+
+  🚪 Turnout Risk:
+     • High-risk employees are 61.5% MORE likely to leave
+     • Retention improves significantly with lower burnout risk
+
+  💊 Mental Health Correlation:
+     • Stress levels: High-risk is 1.9 points higher than low-risk
+     • Anxiety and depression show similar patterns
+     • Better mental health = Lower burnout risk
+
+======================================================================
+🎯 RECOMMENDATIONS BY RISK LEVEL
+======================================================================
+
+  🟢 LOW RISK (Maintain & Share):
+     • Keep current work-life balance (target: ≤39.3 hrs/week)
+     • Act as mentors for moderate-risk employees
+     • Share best practices across teams
+
+  🟡 MODERATE RISK (Targeted Intervention):
+     • Reduce work hours from 44.5 to ≤45 hrs/week
+     • Improve social support from 3.0 to ≥3.5
+     • Weekly stress management sessions
+     • Flexible work arrangements
+
+  🔴 HIGH RISK (Urgent Action):
+     • Immediate workload reduction (from 56.8 to ≤50 hrs/week)
+     • Mandatory wellness program participation
+     • Increase social support from 3.0 to ≥3.0
+     • One-on-one counseling sessions
+     • Job responsibility review
+
+======================================================================
+✅ Analysis Complete
+======================================================================

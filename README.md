@@ -57,6 +57,7 @@
 ---
 
 ## 🚀 راهنمای نصب و اجرا برنامه 
-pip install streamlit pandas numpy joblib scikit-learn
-streamlit run app.py (terminal)
+
+**pip install -r requirements.txt**
+**streamlit run app.py**
  
